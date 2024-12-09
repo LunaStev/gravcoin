@@ -1,10 +1,7 @@
-Bitcoin Core integration/staging tree
+Gravcoin Core
 =====================================
 
-https://bitcoincore.org
-
-For an immediately usable, binary version of the Bitcoin Core software, see
-https://bitcoincore.org/en/download/.
+Gravcoin Core is a cryptocurrency software based on a fork of Bitcoin Core 27.x, utilizing the same underlying code and principles but with specific modifications for the Gravcoin network.
 
 What is Bitcoin Core?
 ---------------------
